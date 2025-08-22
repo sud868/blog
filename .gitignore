@@ -22,3 +22,24 @@ pnpm-debug.log*
 
 # jetbrains setting folder
 .idea/
+
+
+# Firebase
+.firebase/
+*.firebase.log
+firebase-debug.log
+
+
+# Environment variables
+.env
+.env.*
+*.env
+
+
+# Build output
+/dist
+/build
+
+# OS-specific
+.DS_Store
+Thumbs.db
